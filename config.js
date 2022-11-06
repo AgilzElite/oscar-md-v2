@@ -5,48 +5,48 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404'] 
-global.mods = ['6285850539404'] 
-global.prems = ['6285850539404'] 
+global.owner = ['6285857537269'] 
+global.mods = ['6285857537269'] 
+global.prems = ['6285857537269'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404',
-global.instagram = 'https://instagram.com/Jarotr_'
-global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.nameowner = 'ᴹᴿ᭄ Ranzz꧂'
+global.numberowner = '6285857537269',
+global.instagram = 'https://instagram.com/Agilz1120'
+global.github = 'https://github.com/AgilzElite'
+global.Youtube = 'https://youtube.com/channel/UCWjpOXZb18hc09j9qRhxG1w'
+global.sc = '-'
+global.ss = '-'
+global.sss = '-'
+global.yt = 'https://youtube.com/channel/UCWjpOXZb18hc09j9qRhxG1w'
+global.dana = '085857537269'
+global.pulsa = '085857537269'
+global.gopay = '085857537269'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = '❋ཻཻུུ۪۪۪۪⸙RanzBotz-Md⳹ ❋ཻུ۪۪'
+global.gc = '-'
+global.web = 'https://youtube.com/channel/UCWjpOXZb18hc09j9qRhxG1w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.pulsa = '085857537269'
+global.nomer = 'https://wa.me/6285857537269' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
-global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ini juga ganti
+global.fotonya3 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ini juga ganti
+global.fotonya4 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ini juga ganti
+global.fotonya5 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ini juga ganti
+global.fotonya6 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg'
+global.fotonya8 = 'https://i.postimg.cc/J7Qt53Hy/20221105-120134.jpg' //foto session
+global.donasi = 'https://Lets-To-Web-Gilzz.agilganzz1.repl.co' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙OSCAR-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻཻུུ۪۪۪۪⸙Ranzz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
+global.wm2 = 'ᯤ creator by Ranzz GTPS꧅'
 global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.packname = 'RanzBotz'
+global.author = '@Ranzz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
