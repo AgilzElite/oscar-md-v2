@@ -22,8 +22,8 @@ let krizyn = `
            },
                 {
                urlButton: {
-               displayText: '🌍 Youtube 🌍',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🌍 Izin Owner🌍',
+               url: 'https://wa.me/6285857537269'
              }
 
            },
